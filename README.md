@@ -45,12 +45,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamadaIbrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="center" width="48%" src="https://streak-stats.demolab.com/?user=MahmoudHamadaIbrahim&theme=tokyonight&hide_border=true" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=MahmoudHamadaIbrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img align="center" width="48%" src="https://streak-stats.demolab.com/?user=MahmoudHamadaIbrahim&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 <p align="center">
