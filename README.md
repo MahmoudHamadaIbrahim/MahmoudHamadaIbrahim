@@ -62,6 +62,7 @@
   <a href="https://github.com/MahmoudHamadaIbrahim/Social-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaIbrahim&repo=Social-App&theme=react&border_color=61dafb&border_radius=10" width="48%" /></a>
   <a href="https://github.com/MahmoudHamadaIbrahim/Kanban-Task-Manager-Angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaIbrahim&repo=Kanban-Task-Manager-Angular&theme=react&border_color=61dafb&border_radius=10" width="48%" /></a>
   <a href="https://github.com/MahmoudHamadaIbrahim/Kanban-Task-Manager-Vanilla-TypeScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaIbrahim&repo=Kanban-Task-Manager-Vanilla-TypeScript&theme=react&border_color=61dafb&border_radius=10" width="48%" /></a>
+  <a href="https://github.com/MahmoudHamadaIbrahim/Game-Arena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudHamadaIbrahim&repo=Game-Arena&theme=react&border_color=61dafb&border_radius=10" width="48%" /></a>
 </p>
 <h4 align="center">
   <a href="https://github.com/MahmoudHamadaIbrahim?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
